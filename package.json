@@ -1,0 +1,26 @@
+{
+  "name": "imgmanipulationtest",
+  "version": "1.0.0",
+  "description": "Ima try what's called a pro gamer move",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^12.5.1",
+    "fontconfig": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miao704g/ImgManipulationTest.git"
+  },
+  "author": "",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/miao704g/ImgManipulationTest/issues"
+  },
+  "homepage": "https://github.com/miao704g/ImgManipulationTest#readme"
+}
